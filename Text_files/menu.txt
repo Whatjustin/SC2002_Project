@@ -1,0 +1,5 @@
+Nasi Lemak|rice cooked in coconut milk and pandan leaf, served with sambal, cucumber, peanut and anchovies|10.0
+Mee Goreng|yellow noodles with garlic, shallots, fried prawn an d chicken.|9.0
+Fish and Chips|Fried fish in crispy batter, served with chips|15.0
+Lamb Chop|Lamb rib chops, olive oil, rosemary, garlic and black pepper|18.0
+Smoked Tomato Soup|Applewood smoked tomatoes, basil mascarpone|8.0
